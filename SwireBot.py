@@ -32,9 +32,6 @@ async def on_message(message):
 async def reminder(interaction):
     await interaction.response.send_message("Command Received")
 
-
-
-
-# token inside bracket
+# old token
 client.run("OTA2NDA2NDUzMTczMTg2NTYw.GKY5C6.4Wic60iIXYg68hILjmscYMztQ658teX0Py80Vs")
 
